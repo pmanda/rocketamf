@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name    = 'RocketAMF'
-  s.version = '1.0.0'
+  s.version = '0.2.1'
   s.platform = Gem::Platform::RUBY
   s.authors  = ['Jacob Henry', 'Stephen Augenstein', "Joc O'Connor"]
   s.email    = ['perl.programmer@gmail.com']
